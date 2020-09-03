@@ -49,5 +49,19 @@
 			<ingredient name="resourceFeather" count="25"/>
 			<ingredient name="resourceRawDiamond" count="1"/>	
 		</recipe>
+		<recipe name="DiamondChainsaw" count="1" craft_area="workbench" tags="learnable,perkMiner69r">
+			<ingredient name="resourceForgedSteel" count="36"/>
+			<ingredient name="vehicleBicycleHandlebars" count="1"/>
+	                <ingredient name="smallEngine" count="1"/>
+			<ingredient name="resourceRawDiamond" count="4"/>
+			<ingredient name="resourceElectricParts" count="14"/>			
+		</recipe>
+		<recipe name="DiamondAuger" count="1" craft_area="workbench" tags="learnable,perkMiner69r">
+			<ingredient name="resourceForgedSteel" count="40"/>
+			<ingredient name="vehicleBicycleHandlebars" count="1"/>
+	                <ingredient name="smallEngine" count="1"/>
+			<ingredient name="resourceRawDiamond" count="4"/>
+			<ingredient name="resourceMechanicalParts" count="14"/>			
+		</recipe>
 	</append>
 </flipvszero88>
